@@ -4,7 +4,7 @@ import streamlit as st
 from google import genai
 
 
-MODEL_NAME = "gemini-3.6-flash"
+MODEL_NAME = "gemini-3.5-flash"
 
 LANGUAGES = {
     "Urdu": "Urdu",
